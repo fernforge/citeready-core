@@ -1,6 +1,6 @@
 {
   "name": "citeready-core",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Audit whether an AI answer engine (ChatGPT, Perplexity, Google AI) would cite a web page: a two-stage retrieval-vs-quotability model plus an 'is this query even winnable for an independent site?' verdict.",
   "main": "index.js",
   "types": "index.d.ts",
@@ -25,7 +25,7 @@
     "type": "git",
     "url": "https://github.com/fernforge/citeready-core"
   },
-  "homepage": "https://citeready.surge.sh",
+  "homepage": "https://citeready.onrender.com",
   "files": [
     "index.js",
     "engine.js",

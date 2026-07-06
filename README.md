@@ -12,7 +12,7 @@ winnableVerdict('react useEffect api reference').level;  // 'soft-locked' — of
 
 Most AEO/GEO checklists grade your page and hand you a number. That number is worthless if the query is authority-locked: for "what is the dose of ibuprofen," no amount of clean headings gets an independent blog cited over the Mayo Clinic. `citeready-core` filters the query first, then audits the page — and it's honest that domain authority, the thing that actually decides eligibility, is off-page and unmeasurable from your HTML.
 
-Live web version (paste a URL, no install): https://citeready.surge.sh
+Live web version (paste a URL, no install): https://citeready.onrender.com
 
 ## Install
 
